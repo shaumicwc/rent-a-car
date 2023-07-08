@@ -21,10 +21,10 @@ const WhyChoose = () => {
                     <p className='font-bold text-lg mb-2 uppercase'>Dedicated Support </p>
                     <p className='text-sm'>Zoom rent a car driver will provide you the faithful support. They always have been committed to you. You can use the driver as you need.</p>
                 </div>
-                <div>
+                 <div>
                     <p className='font-bold text-lg mb-2 uppercase'>Ensure Security </p>
                     <p className='text-sm'>Zoom rent a car always try to ensure top security for the passengers. For ensuring security zoom car rental always track the vehicle by using devices across the country.</p>
-                </div>
+                 </div> 
             </div>
             <button className='font-bold text-lg py-3 px-5 uppercase text-white bg-black rounded-md'>learn more</button>
         </div>
